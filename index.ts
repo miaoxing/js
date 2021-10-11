@@ -34,6 +34,7 @@ const RetConfig = {
 };
 
 export class Ret implements RetInterface {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   [x: string]: any;
 
   code = RetConfig.defaultErrCode;
@@ -57,11 +58,11 @@ export class Ret implements RetInterface {
     return this.new().buildRet(message, code || RetConfig.defaultErrCode);
   }
 
-  static isSuc(ret: UserRet) {
+  static isSuc(ret: UserRet): boolean {
     return this.new(ret).isSuc();
   }
 
-  static isErr(ret: UserRet) {
+  static isErr(ret: UserRet): boolean {
     return !this.isSuc(ret);
   }
 
@@ -82,7 +83,7 @@ export class Ret implements RetInterface {
     if (typeof message === 'string') {
       data = {message, code};
     } else {
-      data = {message: RetConfig.defaultSucMessage, code, ...message}
+      data = {message: RetConfig.defaultSucMessage, code, ...message};
     }
     Object.assign(this, data);
     return this;
