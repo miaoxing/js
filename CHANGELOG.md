@@ -1,3 +1,29 @@
+# [0.3.0](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.5...miaoxing@0.3.0) (2021-10-28)
+
+
+### Code Refactoring
+
+* **$.http:** `$.http` 改为返回原始 `response` 对象，其中包含 `ret` 对象 ([9a53567](https://github.com/miaoxing/miaoxing-js/commit/9a5356761c5e774f3bb2cee86f9337f2aadc0ef8))
+
+
+### Features
+
+* **ret:** 增加 `Ret.isSuc` 和 `Ret.isErr` 方法，用于判断结果是否成功失败 ([5be6247](https://github.com/miaoxing/miaoxing-js/commit/5be62478eb20025e7de38d9b4e4442cced0e1c3a))
+* **ret:** 增加 `Ret.suc` 和 `Ret.err` 方法用于快速创建 `Ret` 对象 ([cda4b5e](https://github.com/miaoxing/miaoxing-js/commit/cda4b5e43a3fc75d1eef13073fdabbad4c01a966))
+
+
+### BREAKING CHANGES
+
+* **$.http:** `$.http` 改为返回原始 `response` 对象，其中包含 `ret` 对象
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.2.5](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.4...miaoxing@0.2.5) (2021-05-12)
 
 
