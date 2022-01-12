@@ -1,3 +1,23 @@
+# [0.4.0](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.3.0...miaoxing@0.4.0) (2022-01-12)
+
+
+### Features
+
+* 更新 typescript 到 `^4.5.2` ([a87e1b6](https://github.com/miaoxing/miaoxing-js/commit/a87e1b6fc3f00342cd2a144bf33e8fcaf91742cb))
+
+
+### BREAKING CHANGES
+
+* 更新 typescript 到 `^4.5.2`
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 # [0.3.0](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.5...miaoxing@0.3.0) (2021-10-28)
 
 
