@@ -1,3 +1,18 @@
+## [0.4.3](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.4.2...miaoxing@0.4.3) (2022-07-01)
+
+
+### Features
+
+* **experimental:** 增加 `$.fullUrl` 接口 ([d5f98ad](https://github.com/miaoxing/miaoxing-js/commit/d5f98ad2a190f520f56fbbac870d73e8cfe1c562))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.4.2](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.4.1...miaoxing@0.4.2) (2022-06-01)
 
 
