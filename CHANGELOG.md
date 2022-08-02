@@ -1,4 +1,14 @@
-## [0.4.3](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.4.2...miaoxing@0.4.3) (2022-07-01)
+## [0.4.4](https://github.com/miaoxing/miaoxing-js/compare/v0.4.3...v0.4.4) (2022-08-02)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.2` to `8.1.3`
+
+## [0.4.3](https://github.com/miaoxing/miaoxing-js/compare/v0.4.2...v0.4.3) (2022-07-01)
 
 
 ### Features
@@ -13,7 +23,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
 
-## [0.4.2](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.4.1...miaoxing@0.4.2) (2022-06-01)
+## [0.4.2](https://github.com/miaoxing/miaoxing-js/compare/v0.4.1...v0.4.2) (2022-06-01)
 
 
 
@@ -23,7 +33,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.1.0` to `8.1.1`
 
-## [0.4.1](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.4.0...miaoxing@0.4.1) (2022-02-05)
+## [0.4.1](https://github.com/miaoxing/miaoxing-js/compare/v0.4.0...v0.4.1) (2022-02-05)
 
 
 
@@ -33,7 +43,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.0.1` to `8.1.0`
 
-# [0.4.0](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.3.0...miaoxing@0.4.0) (2022-01-12)
+# [0.4.0](https://github.com/miaoxing/miaoxing-js/compare/v0.3.0...v0.4.0) (2022-01-12)
 
 
 ### Features
@@ -53,7 +63,7 @@
 
 * **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
 
-# [0.3.0](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.5...miaoxing@0.3.0) (2021-10-28)
+# [0.3.0](https://github.com/miaoxing/miaoxing-js/compare/v0.2.5...v0.3.0) (2021-10-28)
 
 
 ### Code Refactoring
@@ -79,7 +89,7 @@
 
 * **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
 
-## [0.2.5](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.4...miaoxing@0.2.5) (2021-05-12)
+## [0.2.5](https://github.com/miaoxing/miaoxing-js/compare/v0.2.4...v0.2.5) (2021-05-12)
 
 
 
@@ -89,7 +99,7 @@
 
 * **@miaoxing/dev:** upgrade from `7.0.0` to `7.0.1`
 
-## [0.2.4](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.3...miaoxing@0.2.4) (2021-05-11)
+## [0.2.4](https://github.com/miaoxing/miaoxing-js/compare/v0.2.3...v0.2.4) (2021-05-11)
 
 
 
@@ -99,7 +109,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.4.0` to `7.0.0`
 
-## [0.2.3](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.2...miaoxing@0.2.3) (2021-04-27)
+## [0.2.3](https://github.com/miaoxing/miaoxing-js/compare/v0.2.2...v0.2.3) (2021-04-27)
 
 
 
@@ -109,7 +119,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.3.4` to `6.4.0`
 
-## [0.2.2](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.1...miaoxing@0.2.2) (2021-03-22)
+## [0.2.2](https://github.com/miaoxing/miaoxing-js/compare/v0.2.1...v0.2.2) (2021-03-22)
 
 
 
@@ -119,7 +129,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.3.3` to `6.3.4`
 
-## [0.2.1](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.2.0...miaoxing@0.2.1) (2021-03-12)
+## [0.2.1](https://github.com/miaoxing/miaoxing-js/compare/v0.2.0...v0.2.1) (2021-03-12)
 
 
 
@@ -129,7 +139,7 @@
 
 * **@miaoxing/dev:** upgrade from `6.3.2` to `6.3.3`
 
-# [0.2.0](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.10...miaoxing@0.2.0) (2021-03-11)
+# [0.2.0](https://github.com/miaoxing/miaoxing-js/compare/v0.1.10...v0.2.0) (2021-03-11)
 
 
 ### Bug Fixes
@@ -142,7 +152,7 @@
 
 * `$.http` 改为返回 `Ret` 对象
 
-## [0.1.10](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.9...miaoxing@0.1.10) (2021-03-10)
+## [0.1.10](https://github.com/miaoxing/miaoxing-js/compare/v0.1.9...v0.1.10) (2021-03-10)
 
 
 
@@ -152,7 +162,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.3.1 to 6.3.2
 
-## [0.1.9](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.8...miaoxing@0.1.9) (2021-03-09)
+## [0.1.9](https://github.com/miaoxing/miaoxing-js/compare/v0.1.8...v0.1.9) (2021-03-09)
 
 
 
@@ -162,7 +172,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.3.0 to 6.3.1
 
-## [0.1.8](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.7...miaoxing@0.1.8) (2021-03-09)
+## [0.1.8](https://github.com/miaoxing/miaoxing-js/compare/v0.1.7...v0.1.8) (2021-03-09)
 
 
 
@@ -172,7 +182,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.2.0 to 6.3.0
 
-## [0.1.7](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.6...miaoxing@0.1.7) (2021-03-05)
+## [0.1.7](https://github.com/miaoxing/miaoxing-js/compare/v0.1.6...v0.1.7) (2021-03-05)
 
 
 
@@ -182,7 +192,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.1.2 to 6.2.0
 
-## [0.1.6](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.5...miaoxing@0.1.6) (2021-03-05)
+## [0.1.6](https://github.com/miaoxing/miaoxing-js/compare/v0.1.5...v0.1.6) (2021-03-05)
 
 
 ### Features
@@ -190,7 +200,7 @@
 * **Ret:** 增加 `new` 静态方法，用于创建 `Ret` 类 ([c5d64f3](https://github.com/miaoxing/miaoxing-js/commit/c5d64f34c7cbc12a85ca831abd7884c70a928f44))
 * 增加 `Ret` 类，http 相关接口改为返回 `Ret` 对象，兼容原生对象 ([14b6246](https://github.com/miaoxing/miaoxing-js/commit/14b62464c0b7e5f547f91b15a950f4df66326b19))
 
-## [0.1.5](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.4...miaoxing@0.1.5) (2020-09-25)
+## [0.1.5](https://github.com/miaoxing/miaoxing-js/compare/v0.1.4...v0.1.5) (2020-09-25)
 
 
 
@@ -200,7 +210,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.1.1 to 6.1.2
 
-## [0.1.4](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.3...miaoxing@0.1.4) (2020-09-01)
+## [0.1.4](https://github.com/miaoxing/miaoxing-js/compare/v0.1.3...v0.1.4) (2020-09-01)
 
 
 ### Features
@@ -208,7 +218,7 @@
 * 增加 $.http $.patch $.put $.delete 接口 ([7f81bda](https://github.com/miaoxing/miaoxing-js/commit/7f81bdaee4415f04b7e716613f6e7abe4ba85de8))
 * 增加 $.req $.url $.apiUrl 接口 ([1af7c4a](https://github.com/miaoxing/miaoxing-js/commit/1af7c4ad95c3c0ccb85770f5514dfbfcb63d3898))
 
-## [0.1.3](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.2...miaoxing@0.1.3) (2020-08-17)
+## [0.1.3](https://github.com/miaoxing/miaoxing-js/compare/v0.1.2...v0.1.3) (2020-08-17)
 
 
 
@@ -218,7 +228,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.1.0 to 6.1.1
 
-## [0.1.2](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.1...miaoxing@0.1.2) (2020-08-14)
+## [0.1.2](https://github.com/miaoxing/miaoxing-js/compare/v0.1.1...v0.1.2) (2020-08-14)
 
 
 
@@ -228,7 +238,7 @@
 
 * **@miaoxing/dev:** upgrade from 6.0.0 to 6.1.0
 
-## [0.1.1](https://github.com/miaoxing/miaoxing-js/compare/miaoxing@0.1.0...miaoxing@0.1.1) (2020-08-14)
+## [0.1.1](https://github.com/miaoxing/miaoxing-js/compare/v0.1.0...v0.1.1) (2020-08-14)
 
 
 
