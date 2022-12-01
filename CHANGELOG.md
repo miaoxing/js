@@ -1,3 +1,10 @@
+## [0.4.5](https://github.com/miaoxing/miaoxing-js/compare/v0.4.4...v0.4.5) (2022-12-01)
+
+
+### Features
+
+* **miaoxing:** 简化 `Ret.isSuc` 判断逻辑 ([6774b71](https://github.com/miaoxing/miaoxing-js/commit/6774b71e8493f5152f68f5b44115a8ccd05455d5))
+
 ## [0.4.4](https://github.com/miaoxing/miaoxing-js/compare/v0.4.3...v0.4.4) (2022-08-02)
 
 
