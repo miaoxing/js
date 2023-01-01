@@ -1,3 +1,13 @@
+## [0.4.6](https://github.com/miaoxing/miaoxing-js/compare/v0.4.5...v0.4.6) (2023-01-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [0.4.5](https://github.com/miaoxing/miaoxing-js/compare/v0.4.4...v0.4.5) (2022-12-01)
 
 
