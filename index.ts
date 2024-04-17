@@ -21,6 +21,10 @@ interface HttpConfig {
   [key: string]: any
 }
 
+interface ToOptions {
+  replace?: boolean
+}
+
 type UserRet = Record<string, unknown>;
 
 type CallbackFunction = () => void;
@@ -153,6 +157,9 @@ const $ = {
   },
   apiUrl: (): string => {
     return '';
+  },
+  to: (url: string | number, options?: ToOptions) => {
+    // to be implemented by other packages
   },
 } as ArrayAccess;
 
