@@ -1,3 +1,10 @@
+## [0.4.14](https://github.com/miaoxing/miaoxing-js/compare/v0.4.13...v0.4.14) (2024-05-01)
+
+
+### Features
+
+* **miaoxing:** 增加 `$.to` 方法 ([000ab4f](https://github.com/miaoxing/miaoxing-js/commit/000ab4ff81d792f09fcdac9c9b0fc8ef7ad4212e))
+
 ## [0.4.13](https://github.com/miaoxing/miaoxing-js/compare/v0.4.12...v0.4.13) (2024-03-31)
 
 
