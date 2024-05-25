@@ -149,12 +149,6 @@ const $ = {
   url: (): string => {
     return '';
   },
-  /**
-   * @experimental
-   */
-  fullUrl: (): string => {
-    return '';
-  },
   apiUrl: (): string => {
     return '';
   },
