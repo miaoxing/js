@@ -1,3 +1,10 @@
+## [0.4.15](https://github.com/miaoxing/miaoxing-js/compare/v0.4.14...v0.4.15) (2024-05-30)
+
+
+### Features
+
+* **experimental:** 移除 `$.fullUrl` 方法 ([cccd5ef](https://github.com/miaoxing/miaoxing-js/commit/cccd5ef23b9e6d2286985123a62f66b11d6c876b))
+
 ## [0.4.14](https://github.com/miaoxing/miaoxing-js/compare/v0.4.13...v0.4.14) (2024-05-01)
 
 
