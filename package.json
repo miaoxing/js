@@ -1,9 +1,10 @@
 {
   "name": "miaoxing",
   "version": "0.4.15",
-  "main": "dist/index.js",
+  "main": "index.ts",
   "license": "MIT",
   "publishConfig": {
+    "main": "dist/index.js",
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
