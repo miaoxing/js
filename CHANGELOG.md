@@ -1,3 +1,18 @@
+## [0.4.16](https://github.com/miaoxing/miaoxing-js/compare/v0.4.15...v0.4.16) (2024-07-31)
+
+
+### Bug Fixes
+
+* 更改入口文件，解决 vite "Failed to resolve entry for package" 问题 ([c9a46ed](https://github.com/miaoxing/miaoxing-js/commit/c9a46edd7711920b27570253410bc583de3e3071))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [0.4.15](https://github.com/miaoxing/miaoxing-js/compare/v0.4.14...v0.4.15) (2024-05-30)
 
 
